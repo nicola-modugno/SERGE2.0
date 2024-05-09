@@ -1,4 +1,4 @@
-# SERGE2: A digitalization of the Serious Game For the Education of Risk Management 
+# SERGE 2.0: A digitalization of the Serious Game For the Education of Risk Management 
 <h3 align = "center"> </h3>
 <p align = "center"> An open-source project developed with Unity3D and Photon Unity Networking to reenact the serious game SERGE in a tridimensional virtual environment for academic and educational purposes. </p>
 <p align = "center">
@@ -11,11 +11,12 @@ The main goal of this project was to develop and validate a digital recreation o
 The platform is a conference room where it's possible to interact with other players, objects and play SERGE. It is based on a previous project named **The Metaverse Classroom** by **Viviana Pentangelo** - [vipenti](https://github.com/vipenti) at University of Salerno.
 
 <div align="center">
-  <img src="blobs/stripe1.png?raw=true" width="195" />
+  <img src="blobs/stripe1.JPG?raw=true" width="150" />
   <img src="blobs/stripe3.png?raw=true" width="195" />
-  <img src="blobs/stripe2.JPG?raw=true" width="300" />
-  <img src="blobs/stripe4.png?raw=true" width="200" />
-  <img src="blobs/stripe5.png?raw=true" width="200" />
+  <img src="blobs/stripe2.JPG?raw=true" width="304" />
+  <br>
+  <img src="blobs/stripe4.png?raw=true" width="202" />
+  <img src="blobs/stripe5.png?raw=true" width="202" />
 </div>
 
 
@@ -63,5 +64,5 @@ This repository contains:
 * **MozillaHub** for making the table and the conference room- [mozillareality](https://sketchfab.com/mozillareality)
 * **goff.brian** for making the exclamation mark - [Brian Goff](https://www.vecteezy.com/members/goff-brian)
 * **Neberkenezer** for making the buildings - [Neberkenezer](https://sketchfab.com/neberkenezer)
-* **Froggreen** for the sofas - [Froggreen](https://sketchfab.com/Froggreen)
+* **Froggreen** for making the sofas - [Froggreen](https://sketchfab.com/Froggreen)
 
