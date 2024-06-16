@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7b6330a23a2e9ff72d2134da6c9fee4e2d493c2953261f664862432671fcf62a
-size 715
+{"root":[{"assemblyName":"Unity.InputSystem","nameSpace":"UnityEngine.InputSystem","className":"InputSystem","methodName":"RunInitializeInPlayer","loadTypes":4,"isUnityClass":true},{"assemblyName":"Unity.InputSystem","nameSpace":"UnityEngine.InputSystem","className":"InputSystem","methodName":"RunInitialUpdate","loadTypes":1,"isUnityClass":true},{"assemblyName":"PhotonRealtime","nameSpace":"Photon.Realtime","className":"ConnectionHandler","methodName":"StaticReset","loadTypes":4,"isUnityClass":false},{"assemblyName":"Unity.VisualScripting.Core","nameSpace":"Unity.VisualScripting","className":"RuntimeVSUsageUtility","methodName":"RuntimeInitializeOnLoadBeforeSceneLoad","loadTypes":1,"isUnityClass":true}]}
