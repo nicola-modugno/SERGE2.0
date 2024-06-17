@@ -49,9 +49,6 @@ This repository contains:
 
 **Steps:**
 1. Download the _SERGE_ folder.
-2. Unpack the archives into a directory of your preference.
-3. Highligth each archive you have just extracted.
-4. Click Extract Here. (This will produce a new directory that you can import in Unity as a project.)
 2. Open the Unity Hub, go in the _Projects_ tab and click on the _Open_ button.
 3. Choose the path to the new directory.
 4. The project should now appear in your projects list. Click on its name and Unity will install all the needed libraries to make it work.

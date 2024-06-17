@@ -71,23 +71,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Files to ignore to make a smaller commit
-#.git/
-#SERGE/SERGE/build/build/bin/SERGE_Data/resources.assets.resS
-#SERGE/SERGE/build/build/bin/SERGE_Data/sharedassets0.assets.resS
-#SERGE/SERGE/build/SERGE/SERGE_Data/resources.assets.resS
-#SERGE/SERGE/build/SERGE/SERGE_Data/sharedassets0.assets.resS
-#SERGE/SERGE/Library/ArtifactDB
-#SERGE/SERGE/Library/PackageCache/com.unity.toolchain.win-x86_64-linux-x86_64@2.0.6/data~/payload.tar.7z
-#SERGE/SERGE/Library/PlayerDataCache/OSXUniversal/Data/resources.assets.resS
-#SERGE/SERGE/Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets.resS
-#SERGE/SERGE/Library/PlayerDataCache/OSXUniversal/Data/sharedassets1.assets.resS
-#SERGE/SERGE/Library/PlayerDataCache/Win64/Data/resources.assets.resS
-#SERGE/SERGE/Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS
-#SERGE/SERGE/Library/PlayerDataCache/Win64/Data/sharedassets1.assets.resS
-#SERGE/SERGE/SERGE_Data/resources.assets.resS
-#SERGE/SERGE/SERGE_Data/sharedassets0.assets.resS
-#Windows Build/SERGE_Data/resources.assets.resS
-#Windows Build/SERGE_Data/sharedassets0.assets.resS
-#Windows Build/SERGE_Data/sharedassets1.assets.resS
 
