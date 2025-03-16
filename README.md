@@ -22,7 +22,7 @@ The platform is a conference room where it's possible to interact with other pla
 
 ## Content of the Repository
 This repository contains:
-- _SERGE_: The complete Unity Project of the application subdivided into several archives.
+- _SERGE_: The complete Unity Project of the application.
 - _Windows Build_: The built application ready to use for Windows.
 - _MacOS Build.app_: The built application for MacOS.
 
