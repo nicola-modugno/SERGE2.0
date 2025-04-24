@@ -1,4 +1,6 @@
 # SERGE 2.0: A digitalization of the Serious Game For the Education of Risk Management 
+![Splash](./splash.png)
+<br>
 <h3 align = "center"> </h3>
 <p align = "center"> An open-source project developed with Unity3D and Photon Unity Networking to reenact the serious game SERGE in a tridimensional virtual environment for academic and educational purposes. </p>
 <p align = "center">
